@@ -1,0 +1,320 @@
+/* header section */
+
+.nav-item1{
+    display: flex;
+}
+i.fa-solid.fa-user {
+    padding: 12px 9px;
+}
+
+a.navbar-brand {
+    padding: 10px 70px;
+}
+
+button.btn.btn-warning {
+    height: 36px;
+    width: 110px;
+    text-align: center;
+}
+button.btn {
+    margin: 2px 20px;
+    border: solid black 2px;
+}
+
+
+/* banner section */
+
+
+.d-flex.flex-row {
+    width: 100%;
+}
+
+.p-2.bd-highlight {
+    width: 50%;
+}
+
+.p-2.bd-highlight img {
+    height: 500px;
+    width: 680px;
+}
+.\33 items {
+    display: flex;
+    padding: 44px 118px;
+}
+
+.item1 {
+    margin: 0 13px;
+}
+
+.item1 span {
+    font-size: 14px;
+}
+
+.p-2.bd-highlight h1 {
+    padding: 47px 133px;
+}
+
+.p-2.bd-highlight p {
+    padding: 0px 138px;
+}
+
+.p-2.bd-highlight button {
+    margin: 10px 133px;
+}
+
+/* 2nd class */
+
+.Two{
+    clip-path: polygon(0% 0%, 27% 9.25%, 100% 17.75%, 100% 100%, 0.5% 100%);
+    background-color: #ffbf23
+}
+
+.divspan,.divspan1 {
+    margin: 70px 20px;
+    padding: 60px 68px;
+}
+
+.divspan1 span {
+    font-size: xx-large;
+}
+
+/* offer section*/
+
+section.Offer {
+    margin: 70px 0;
+}
+
+.container_text p {
+    width: 374px;
+    padding: 35px 0;
+}
+
+.offer_flex {
+    display: flex;
+    width: 100%;
+}
+
+.offers {width: 20%;margin: 0 30px;}
+
+.o_img img {
+    width: 226px;
+    height: 300px;
+    /* object-fit: cover; */
+    border: black solid 3px;
+    border-radius: 14px;
+    margin: 14px 0;
+}
+
+.o_heading {
+    width: 122px;
+    padding: 20px 3px;
+}
+
+.o_heading h4 {
+    font-size: 18px;
+}
+
+.o_p {
+    padding: 0 3px;
+    width: 227px;
+}
+
+
+
+
+/* creatives section */
+
+
+.contant_flex {
+    display: flex;
+    width: 100%;
+}
+
+.Creative_img {
+    width: 50%;
+}
+
+.creative_text {
+    width: 50%;
+    padding: 155px 24px;
+}
+
+.Creative_img img {
+    height: 590px;
+    width: 610px;
+}
+
+section.Creatives {
+    margin: 70px 0;
+}
+.creative_text h3 {
+    width: 317px;
+    font-size: 37px;
+    padding: 10px 0px;
+}
+
+.\33 items1 {
+    display: flex;
+    padding: 20px 0;
+}
+
+.item11 {
+    margin: 0 16px;
+}
+
+.creative_text p {
+    width: 404px;
+}
+
+/* leaders */
+
+.Leaders{
+    clip-path: polygon(0% 12.5%, 54.25% 8.75%, 100% 0%, 100% 100%, 0% 100%);
+    background-color: rgba(244,157,244,0.65);
+    margin: 70px 0;
+    padding: 70px 0; 
+}
+
+.leader_1_flex {
+    display: flex;
+    width: 100%;
+}
+
+.inner_container {
+    margin: 100px 0;
+}
+
+.leader1 {
+    width: 20%;
+}
+
+.leader1 img {
+    height: 80px;
+    width: 100px;
+    margin: 0 170px;
+}
+
+
+/* Pricing */
+
+.title_p {
+    padding: 20px 23px;
+}
+
+.title_p h2 {
+    padding: 0px 164px;
+    width: 565px;
+}
+
+.title_p p {margin: 20px 28px;}
+
+.btndiv {
+    margin: 20px 31px;
+}
+
+
+
+/* Solution */
+.inner_sol {
+    text-align: center;
+}
+
+.title_sol {
+    width: 650px;
+    margin: 0px auto;
+}
+
+section.Solution {
+    margin: 70px 0;
+}
+
+.sol_btn {
+    padding: 26px 0;
+}
+
+.sol_img {
+    width: 100%;
+}
+
+.sol_img img {
+    height: 500px;
+}
+
+
+/* Footer */
+
+footer{
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+    background-color: #ffbf23
+}
+
+
+.inner_footer {
+    width: 100%;
+    padding: 70px 0;
+}
+
+.f_logo img {
+    height: 40px;
+    width: 180px;
+}
+
+.f_logo {
+    margin: 20px 0;
+}
+
+.main_flex {
+    display: flex;
+    width: 100%;
+}
+
+.main {
+    width: 20%;
+    margin: 0 30px;
+}
+
+.flex_under {
+    display: flex;
+    margin: 15px 0;
+}
+
+.add p {
+    font-size: 14px;
+}
+
+.main_title h3 {
+    font-size: 20px;
+}
+
+
+
+.links a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+button#button-addon2 {height: 38px;width: 92px;border-radius: 4px;background-color: black;color: white;}
+
+input.form-control {
+    height: 35px;
+    padding: 16px;
+    margin: 4px 0px;
+}
+
+.pass p{
+    font-size: 14px;
+}
+
+.social_links a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+
+.social_links {
+    padding: 8px 130px;
+}
